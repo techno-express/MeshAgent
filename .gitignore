@@ -1,0 +1,11 @@
+
+*.db
+.vs/MeshAgent/v15/.suo
+*.opendb
+*.ipch
+*.db-wal
+*.db-shm
+*.aps
+*.aps
+*.aps
+meshservice/MeshService.aps
